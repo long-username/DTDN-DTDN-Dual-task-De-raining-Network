@@ -7,3 +7,5 @@ train.py use d_model.h5 and g_model.5 for input. Please generate them before tra
 utils.py include module of data loader and implentment of some layer.
 
 Please use python 3.6 and Keras 2.2.
+
+The weights of DTDN can be downloaded at https://drive.google.com/file/d/1s5rrrzdSIOkD017VOcf3Ajq0UpttIzd6/view?usp=sharing 
