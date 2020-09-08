@@ -8,4 +8,6 @@ utils.py includes a module of data loader and implentment of some layers.
 
 Please use python 3.6 and Keras 2.2.
 
-The weights of DTDN can be downloaded at https://drive.google.com/file/d/1s5rrrzdSIOkD017VOcf3Ajq0UpttIzd6/view?usp=sharing 
+The weights of DTDN can be downloaded at https://drive.google.com/file/d/1s5rrrzdSIOkD017VOcf3Ajq0UpttIzd6/view?usp=sharing
+
+The training data can be downloaded at https://drive.google.com/file/d/1QDNZwLQrxeMFw2qbArNqDwk5bnYFL64G/view?usp=sharing
